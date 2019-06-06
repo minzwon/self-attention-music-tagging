@@ -1,0 +1,13 @@
+.DS_Store
+*.cls
+*.npy
+*.csv
+*.out
+*.pth
+*.mp3
+*.pyc
+core
+*/core
+*.swp
+*/__pycache__/
+
