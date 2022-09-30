@@ -73,7 +73,7 @@ jdcal==1.4
 jedi==0.13.2
 Jinja2==2.10
 jmespath==0.9.3
-joblib==0.13.2
+joblib==1.2.0
 jsonschema==2.6.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
